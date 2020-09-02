@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [ошибка](https://github.com/MVGIC/Money-Transfer/issues/1#issue-689049249)
+* [Программа не правильно считает общий баланс](https://github.com/MVGIC/Money-Transfer/issues/1#issue-689049249)
 
 ## Описание тестов
 
@@ -18,7 +18,7 @@
 ## Результаты
 
 1. 50% успешных / 50% не успешных тестов
-2. [баг репорт](https://github.com/MVGIC/Money-Transfer/issues/1#issue-689049249)
+2. [Баг репорт](https://github.com/MVGIC/Money-Transfer/issues/1#issue-689049249)
 
 ## Общие рекомендации
 
